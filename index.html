@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>MurunOFC</title>
+</head>
+
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@200&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Merienda:wght@700&display=swap" rel="stylesheet">
+
+<style>
+    body,
+    html {
+        height: 100%;
+        margin: 0;
+    }
+
+    .fa {
+        padding: 7.5px;
+        font-size: 15px;
+        width: 10px;
+        text-align: center;
+        text-decoration: none;
+        margin: 7.5px 7.5px;
+    }
+
+    .fa-google {
+        background: none;
+        color: white;
+    }
+
+    .fa-instagram {
+        background: none;
+        color: white;
+    }
+
+    .bgimg {
+        background-image: url('/documents/background.jpg');
+        height: 100%;
+        background-position: center;
+        background-size: cover;
+        position: relative;
+        color: white;
+        font-family: 'Josefin Sans', sans-serif;
+        font-size: 20px;
+    }
+
+    .topleft {
+        position: absolute;
+        top: 0;
+        left: 16px;
+    }
+
+    .bottomleft {
+        position: absolute;
+        bottom: 0;
+        left: 25px;
+    }
+
+    .bottomright {
+        position: absolute;
+        bottom: 0;
+        right: 25px;
+    }
+
+    .middle {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        text-align: center;
+    }
+
+    hr {
+        margin: auto;
+        width: 40%;
+    }
+
+    a {
+        color: white;
+        /* text-decoration: none;
+        /* no underline */
+    }
+</style>
+
+
+
+<body>
+
+    <div class="bgimg">
+        <div class="topleft">
+            <p></p>
+        </div>
+        <div class="middle">
+            <h1 style="font-family: 'Merienda', cursive;">MAYBE COMING SOON, IDK</h1>
+            <p></p>
+            <p style="font-size: 15px;">
+                In a meantime
+                <a href="/documents/Viewer.xlsm">click here</a>
+                to download my database Viewer written on VBA.
+            </p>
+
+            <p style="font-size: 15px;">
+                You can also download the latest report in <a href="/documents/macro_report_en.pdf">English</a> or in <a
+                    href="/documents/macro_report_mn.pdf">Mongolian</a>
+            </p>
+
+            <hr>
+            <p id="demo" style="font-size:30px"></p>
+        </div>
+        <div class="bottomleft">
+            <p style="font-size: 15px;">by MurunOFC , 2021
+            </p>
+        </div>
+
+        <div class="bottomright">
+            <a href="mailto: murunofc@gmail.com" class="fa fa-google"></a>
+            <a href="https://www.instagram.com/murunofc/" class="fa fa-instagram"></a>
+        </div>
+
+    </div>
+
+    <script>
+        // Set the date we're counting down to
+
+        var countDownDate = new Date("Jan 1, 2099 12:00:00").getTime();
+
+        // Update the count down every 1 second
+        var countdownfunction = setInterval(function () {
+
+            // Get todays date and time
+            var now = new Date().getTime();
+
+            // Find the distance between now an the count down date
+            var distance = countDownDate - now;
+
+            // Time calculations for days, hours, minutes and seconds
+            //var days = Math.floor(distance / (1000 * 60 * 60 * 24));
+            //var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+            //var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+            var seconds = Math.floor((distance % (1000 * 60)) / 1000);
+
+            // Output the result in an element with id="demo"
+            document.getElementById("demo").innerHTML = "??" + " d " + "??" + " h "
+                + "??" + " m " + seconds + " s ";
+
+            // If the count down is over, write some text 
+            if (distance < 0) {
+                clearInterval(countdownfunction);
+                document.getElementById("demo").innerHTML = "WE DID IT! :D";
+            }
+        }, 1000);
+    </script>
+
+</body>
+
+</html>
