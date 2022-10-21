@@ -14492,7 +14492,7 @@
     {
         "variables":"ii",
         "periods":"2022Q3",
-        "golomt":null,
+        "golomt":480937.0,
         "khan":null,
         "tdb":null,
         "xac":null,
@@ -14501,7 +14501,7 @@
     {
         "variables":"ii_bom",
         "periods":"2022Q3",
-        "golomt":null,
+        "golomt":13210.0,
         "khan":null,
         "tdb":null,
         "xac":null,
@@ -14510,7 +14510,7 @@
     {
         "variables":"ii_banks",
         "periods":"2022Q3",
-        "golomt":null,
+        "golomt":16627.0,
         "khan":null,
         "tdb":null,
         "xac":null,
@@ -14519,7 +14519,7 @@
     {
         "variables":"ii_security",
         "periods":"2022Q3",
-        "golomt":null,
+        "golomt":75579.0,
         "khan":null,
         "tdb":null,
         "xac":null,
@@ -14528,7 +14528,7 @@
     {
         "variables":"ii_loan",
         "periods":"2022Q3",
-        "golomt":null,
+        "golomt":317224.0,
         "khan":null,
         "tdb":null,
         "xac":null,
@@ -14537,7 +14537,7 @@
     {
         "variables":"ii_other",
         "periods":"2022Q3",
-        "golomt":null,
+        "golomt":58298.0,
         "khan":null,
         "tdb":null,
         "xac":null,
@@ -14546,7 +14546,7 @@
     {
         "variables":"nii",
         "periods":"2022Q3",
-        "golomt":null,
+        "golomt":120742.0,
         "khan":null,
         "tdb":null,
         "xac":null,
@@ -14555,7 +14555,7 @@
     {
         "variables":"nii_trade",
         "periods":"2022Q3",
-        "golomt":null,
+        "golomt":53558.0,
         "khan":null,
         "tdb":null,
         "xac":null,
@@ -14573,7 +14573,7 @@
     {
         "variables":"nii_fee",
         "periods":"2022Q3",
-        "golomt":null,
+        "golomt":62504.0,
         "khan":null,
         "tdb":null,
         "xac":null,
@@ -14582,7 +14582,7 @@
     {
         "variables":"nii_other",
         "periods":"2022Q3",
-        "golomt":null,
+        "golomt":4680.0,
         "khan":null,
         "tdb":null,
         "xac":null,
@@ -14591,7 +14591,7 @@
     {
         "variables":"ie",
         "periods":"2022Q3",
-        "golomt":null,
+        "golomt":218521.0,
         "khan":null,
         "tdb":null,
         "xac":null,
@@ -14600,7 +14600,7 @@
     {
         "variables":"ie_ca",
         "periods":"2022Q3",
-        "golomt":null,
+        "golomt":0.0,
         "khan":null,
         "tdb":null,
         "xac":null,
@@ -14609,7 +14609,7 @@
     {
         "variables":"ie_sa",
         "periods":"2022Q3",
-        "golomt":null,
+        "golomt":119613.0,
         "khan":null,
         "tdb":null,
         "xac":null,
@@ -14618,7 +14618,7 @@
     {
         "variables":"ie_fund",
         "periods":"2022Q3",
-        "golomt":null,
+        "golomt":38086.0,
         "khan":null,
         "tdb":null,
         "xac":null,
@@ -14627,7 +14627,7 @@
     {
         "variables":"ie_security",
         "periods":"2022Q3",
-        "golomt":null,
+        "golomt":0.0,
         "khan":null,
         "tdb":null,
         "xac":null,
@@ -14636,7 +14636,7 @@
     {
         "variables":"ie_other",
         "periods":"2022Q3",
-        "golomt":null,
+        "golomt":60822.0,
         "khan":null,
         "tdb":null,
         "xac":null,
@@ -14645,7 +14645,7 @@
     {
         "variables":"nie",
         "periods":"2022Q3",
-        "golomt":null,
+        "golomt":58186.0,
         "khan":null,
         "tdb":null,
         "xac":null,
@@ -14654,7 +14654,7 @@
     {
         "variables":"nie_trade",
         "periods":"2022Q3",
-        "golomt":null,
+        "golomt":0.0,
         "khan":null,
         "tdb":null,
         "xac":null,
@@ -14663,7 +14663,7 @@
     {
         "variables":"nie_exchange",
         "periods":"2022Q3",
-        "golomt":null,
+        "golomt":26809.0,
         "khan":null,
         "tdb":null,
         "xac":null,
@@ -14672,7 +14672,7 @@
     {
         "variables":"nie_fee",
         "periods":"2022Q3",
-        "golomt":null,
+        "golomt":31377.0,
         "khan":null,
         "tdb":null,
         "xac":null,
@@ -14690,7 +14690,7 @@
     {
         "variables":"oc_prov",
         "periods":"2022Q3",
-        "golomt":null,
+        "golomt":52632.0,
         "khan":null,
         "tdb":null,
         "xac":null,
@@ -14699,7 +14699,7 @@
     {
         "variables":"oc_othprov",
         "periods":"2022Q3",
-        "golomt":null,
+        "golomt":53062.0,
         "khan":null,
         "tdb":null,
         "xac":null,
@@ -14708,7 +14708,7 @@
     {
         "variables":"oc_opex",
         "periods":"2022Q3",
-        "golomt":null,
+        "golomt":115596.0,
         "khan":null,
         "tdb":null,
         "xac":null,
@@ -14717,7 +14717,7 @@
     {
         "variables":"oth_income",
         "periods":"2022Q3",
-        "golomt":null,
+        "golomt":11467.0,
         "khan":null,
         "tdb":null,
         "xac":null,
@@ -14726,7 +14726,7 @@
     {
         "variables":"oth_expense",
         "periods":"2022Q3",
-        "golomt":null,
+        "golomt":8946.0,
         "khan":null,
         "tdb":null,
         "xac":null,
@@ -14735,7 +14735,7 @@
     {
         "variables":"p_bt",
         "periods":"2022Q3",
-        "golomt":null,
+        "golomt":106204.0,
         "khan":null,
         "tdb":null,
         "xac":null,
@@ -14744,7 +14744,7 @@
     {
         "variables":"p_tax",
         "periods":"2022Q3",
-        "golomt":null,
+        "golomt":27740.0,
         "khan":null,
         "tdb":null,
         "xac":null,
@@ -14753,7 +14753,7 @@
     {
         "variables":"p_othinc",
         "periods":"2022Q3",
-        "golomt":null,
+        "golomt":348.0,
         "khan":null,
         "tdb":null,
         "xac":null,
@@ -14762,7 +14762,7 @@
     {
         "variables":"p_net",
         "periods":"2022Q3",
-        "golomt":null,
+        "golomt":78811.0,
         "khan":null,
         "tdb":null,
         "xac":null,
@@ -14771,7 +14771,7 @@
     {
         "variables":"cas",
         "periods":"2022Q3",
-        "golomt":null,
+        "golomt":8048178.0,
         "khan":null,
         "tdb":null,
         "xac":null,
@@ -14780,7 +14780,7 @@
     {
         "variables":"cas_cash",
         "periods":"2022Q3",
-        "golomt":null,
+        "golomt":1996575.0,
         "khan":null,
         "tdb":null,
         "xac":null,
@@ -14789,7 +14789,7 @@
     {
         "variables":"cas_bank",
         "periods":"2022Q3",
-        "golomt":null,
+        "golomt":1364962.0,
         "khan":null,
         "tdb":null,
         "xac":null,
@@ -14798,7 +14798,7 @@
     {
         "variables":"cas_invest",
         "periods":"2022Q3",
-        "golomt":null,
+        "golomt":538730.0,
         "khan":null,
         "tdb":null,
         "xac":null,
@@ -14807,7 +14807,7 @@
     {
         "variables":"cas_netloan",
         "periods":"2022Q3",
-        "golomt":null,
+        "golomt":3674118.0,
         "khan":null,
         "tdb":null,
         "xac":null,
@@ -14816,7 +14816,7 @@
     {
         "variables":"casl_sloan",
         "periods":"2022Q3",
-        "golomt":null,
+        "golomt":3572766.0,
         "khan":null,
         "tdb":null,
         "xac":null,
@@ -14825,7 +14825,7 @@
     {
         "variables":"casl_dloan",
         "periods":"2022Q3",
-        "golomt":null,
+        "golomt":-15337.0,
         "khan":null,
         "tdb":null,
         "xac":null,
@@ -14834,7 +14834,7 @@
     {
         "variables":"casl_int",
         "periods":"2022Q3",
-        "golomt":null,
+        "golomt":29920.0,
         "khan":null,
         "tdb":null,
         "xac":null,
@@ -14843,7 +14843,7 @@
     {
         "variables":"casl_npl",
         "periods":"2022Q3",
-        "golomt":null,
+        "golomt":295235.0,
         "khan":null,
         "tdb":null,
         "xac":null,
@@ -14861,7 +14861,7 @@
     {
         "variables":"casl_prov",
         "periods":"2022Q3",
-        "golomt":null,
+        "golomt":-208466.0,
         "khan":null,
         "tdb":null,
         "xac":null,
@@ -14870,7 +14870,7 @@
     {
         "variables":"cas_deriv",
         "periods":"2022Q3",
-        "golomt":null,
+        "golomt":347610.0,
         "khan":null,
         "tdb":null,
         "xac":null,
@@ -14879,7 +14879,7 @@
     {
         "variables":"cas_finas",
         "periods":"2022Q3",
-        "golomt":null,
+        "golomt":37730.0,
         "khan":null,
         "tdb":null,
         "xac":null,
@@ -14888,7 +14888,7 @@
     {
         "variables":"cas_nfinas",
         "periods":"2022Q3",
-        "golomt":null,
+        "golomt":88453.0,
         "khan":null,
         "tdb":null,
         "xac":null,
@@ -14897,7 +14897,7 @@
     {
         "variables":"ncas",
         "periods":"2022Q3",
-        "golomt":null,
+        "golomt":418338.0,
         "khan":null,
         "tdb":null,
         "xac":null,
@@ -14906,7 +14906,7 @@
     {
         "variables":"ncas_fixed",
         "periods":"2022Q3",
-        "golomt":null,
+        "golomt":383451.0,
         "khan":null,
         "tdb":null,
         "xac":null,
@@ -14915,7 +14915,7 @@
     {
         "variables":"ncas_real",
         "periods":"2022Q3",
-        "golomt":null,
+        "golomt":7225.0,
         "khan":null,
         "tdb":null,
         "xac":null,
@@ -14924,7 +14924,7 @@
     {
         "variables":"ncas_forsale",
         "periods":"2022Q3",
-        "golomt":null,
+        "golomt":7096.0,
         "khan":null,
         "tdb":null,
         "xac":null,
@@ -14933,7 +14933,7 @@
     {
         "variables":"ncas_intangible",
         "periods":"2022Q3",
-        "golomt":null,
+        "golomt":20566.0,
         "khan":null,
         "tdb":null,
         "xac":null,
@@ -14942,7 +14942,7 @@
     {
         "variables":"t_asset",
         "periods":"2022Q3",
-        "golomt":null,
+        "golomt":8466516.0,
         "khan":null,
         "tdb":null,
         "xac":null,
@@ -14951,7 +14951,7 @@
     {
         "variables":"lia",
         "periods":"2022Q3",
-        "golomt":null,
+        "golomt":7761501.0,
         "khan":null,
         "tdb":null,
         "xac":null,
@@ -14960,7 +14960,7 @@
     {
         "variables":"lia_ca",
         "periods":"2022Q3",
-        "golomt":null,
+        "golomt":2442840.0,
         "khan":null,
         "tdb":null,
         "xac":null,
@@ -14969,7 +14969,7 @@
     {
         "variables":"lia_sa",
         "periods":"2022Q3",
-        "golomt":null,
+        "golomt":3083999.0,
         "khan":null,
         "tdb":null,
         "xac":null,
@@ -14978,7 +14978,7 @@
     {
         "variables":"lia_bank",
         "periods":"2022Q3",
-        "golomt":null,
+        "golomt":1824542.0,
         "khan":null,
         "tdb":null,
         "xac":null,
@@ -14987,7 +14987,7 @@
     {
         "variables":"lia_othdepo",
         "periods":"2022Q3",
-        "golomt":null,
+        "golomt":304092.0,
         "khan":null,
         "tdb":null,
         "xac":null,
@@ -14996,7 +14996,7 @@
     {
         "variables":"lia_othlia",
         "periods":"2022Q3",
-        "golomt":null,
+        "golomt":106028.0,
         "khan":null,
         "tdb":null,
         "xac":null,
@@ -15005,7 +15005,7 @@
     {
         "variables":"eq",
         "periods":"2022Q3",
-        "golomt":null,
+        "golomt":705015.0,
         "khan":null,
         "tdb":null,
         "xac":null,
@@ -15014,7 +15014,7 @@
     {
         "variables":"eq_cap",
         "periods":"2022Q3",
-        "golomt":null,
+        "golomt":179049.0,
         "khan":null,
         "tdb":null,
         "xac":null,
@@ -15023,7 +15023,7 @@
     {
         "variables":"eq_prem",
         "periods":"2022Q3",
-        "golomt":null,
+        "golomt":205782.0,
         "khan":null,
         "tdb":null,
         "xac":null,
@@ -15032,7 +15032,7 @@
     {
         "variables":"eq_stock",
         "periods":"2022Q3",
-        "golomt":null,
+        "golomt":0.0,
         "khan":null,
         "tdb":null,
         "xac":null,
@@ -15041,7 +15041,7 @@
     {
         "variables":"eq_surp",
         "periods":"2022Q3",
-        "golomt":null,
+        "golomt":7245.0,
         "khan":null,
         "tdb":null,
         "xac":null,
@@ -15050,7 +15050,7 @@
     {
         "variables":"eq_earn",
         "periods":"2022Q3",
-        "golomt":null,
+        "golomt":261404.0,
         "khan":null,
         "tdb":null,
         "xac":null,
@@ -15059,7 +15059,7 @@
     {
         "variables":"eq_oth",
         "periods":"2022Q3",
-        "golomt":null,
+        "golomt":51536.0,
         "khan":null,
         "tdb":null,
         "xac":null,
@@ -15068,7 +15068,7 @@
     {
         "variables":"t_lia_eq",
         "periods":"2022Q3",
-        "golomt":null,
+        "golomt":8466516.0,
         "khan":null,
         "tdb":null,
         "xac":null,
@@ -15077,7 +15077,7 @@
     {
         "variables":"ratio_t1",
         "periods":"2022Q3",
-        "golomt":null,
+        "golomt":0.1418,
         "khan":null,
         "tdb":null,
         "xac":null,
@@ -15086,7 +15086,7 @@
     {
         "variables":"ratio_car",
         "periods":"2022Q3",
-        "golomt":null,
+        "golomt":0.1418,
         "khan":null,
         "tdb":null,
         "xac":null,
@@ -15095,7 +15095,7 @@
     {
         "variables":"ratio_liq",
         "periods":"2022Q3",
-        "golomt":null,
+        "golomt":0.3467,
         "khan":null,
         "tdb":null,
         "xac":null,
@@ -15104,7 +15104,7 @@
     {
         "variables":"ratio_fcop_c",
         "periods":"2022Q3",
-        "golomt":null,
+        "golomt":-0.0135,
         "khan":null,
         "tdb":null,
         "xac":null,
@@ -15113,7 +15113,7 @@
     {
         "variables":"ratio_fcop_t",
         "periods":"2022Q3",
-        "golomt":null,
+        "golomt":-0.0374,
         "khan":null,
         "tdb":null,
         "xac":null,
