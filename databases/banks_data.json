@@ -15756,7 +15756,7 @@
         "khan":null,
         "tdb":null,
         "xac":null,
-        "state":null
+        "state":111441.0
     },
     {
         "variables":"ii_bom",
@@ -15765,7 +15765,7 @@
         "khan":null,
         "tdb":null,
         "xac":null,
-        "state":null
+        "state":3029.7
     },
     {
         "variables":"ii_banks",
@@ -15774,7 +15774,7 @@
         "khan":null,
         "tdb":null,
         "xac":null,
-        "state":null
+        "state":1874.2
     },
     {
         "variables":"ii_security",
@@ -15783,7 +15783,7 @@
         "khan":null,
         "tdb":null,
         "xac":null,
-        "state":null
+        "state":29620.8
     },
     {
         "variables":"ii_loan",
@@ -15792,7 +15792,7 @@
         "khan":null,
         "tdb":null,
         "xac":null,
-        "state":null
+        "state":74455.6
     },
     {
         "variables":"ii_other",
@@ -15801,7 +15801,7 @@
         "khan":null,
         "tdb":null,
         "xac":null,
-        "state":null
+        "state":2460.7
     },
     {
         "variables":"nii",
@@ -15810,7 +15810,7 @@
         "khan":null,
         "tdb":null,
         "xac":null,
-        "state":null
+        "state":16590.9
     },
     {
         "variables":"nii_trade",
@@ -15819,7 +15819,7 @@
         "khan":null,
         "tdb":null,
         "xac":null,
-        "state":null
+        "state":7842.9
     },
     {
         "variables":"nii_exchange",
@@ -15828,7 +15828,7 @@
         "khan":null,
         "tdb":null,
         "xac":null,
-        "state":null
+        "state":0.0
     },
     {
         "variables":"nii_fee",
@@ -15837,7 +15837,7 @@
         "khan":null,
         "tdb":null,
         "xac":null,
-        "state":null
+        "state":8736.2
     },
     {
         "variables":"nii_other",
@@ -15846,7 +15846,7 @@
         "khan":null,
         "tdb":null,
         "xac":null,
-        "state":null
+        "state":11.8
     },
     {
         "variables":"ie",
@@ -15855,7 +15855,7 @@
         "khan":null,
         "tdb":null,
         "xac":null,
-        "state":null
+        "state":54031.2
     },
     {
         "variables":"ie_ca",
@@ -15864,7 +15864,7 @@
         "khan":null,
         "tdb":null,
         "xac":null,
-        "state":null
+        "state":0.0
     },
     {
         "variables":"ie_sa",
@@ -15873,7 +15873,7 @@
         "khan":null,
         "tdb":null,
         "xac":null,
-        "state":null
+        "state":46141.7
     },
     {
         "variables":"ie_fund",
@@ -15882,7 +15882,7 @@
         "khan":null,
         "tdb":null,
         "xac":null,
-        "state":null
+        "state":1287.7
     },
     {
         "variables":"ie_security",
@@ -15891,7 +15891,7 @@
         "khan":null,
         "tdb":null,
         "xac":null,
-        "state":null
+        "state":2094.2
     },
     {
         "variables":"ie_other",
@@ -15900,7 +15900,7 @@
         "khan":null,
         "tdb":null,
         "xac":null,
-        "state":null
+        "state":4507.6
     },
     {
         "variables":"nie",
@@ -15909,7 +15909,7 @@
         "khan":null,
         "tdb":null,
         "xac":null,
-        "state":null
+        "state":10657.5
     },
     {
         "variables":"nie_trade",
@@ -15918,7 +15918,7 @@
         "khan":null,
         "tdb":null,
         "xac":null,
-        "state":null
+        "state":548.0
     },
     {
         "variables":"nie_exchange",
@@ -15927,7 +15927,7 @@
         "khan":null,
         "tdb":null,
         "xac":null,
-        "state":null
+        "state":7814.7
     },
     {
         "variables":"nie_fee",
@@ -15936,7 +15936,7 @@
         "khan":null,
         "tdb":null,
         "xac":null,
-        "state":null
+        "state":2294.8
     },
     {
         "variables":"nie_other",
@@ -15954,7 +15954,7 @@
         "khan":null,
         "tdb":null,
         "xac":null,
-        "state":null
+        "state":2025.7
     },
     {
         "variables":"oc_othprov",
@@ -15963,7 +15963,7 @@
         "khan":null,
         "tdb":null,
         "xac":null,
-        "state":null
+        "state":332.2
     },
     {
         "variables":"oc_opex",
@@ -15972,7 +15972,7 @@
         "khan":null,
         "tdb":null,
         "xac":null,
-        "state":null
+        "state":32587.3
     },
     {
         "variables":"oth_income",
@@ -15981,7 +15981,7 @@
         "khan":null,
         "tdb":null,
         "xac":null,
-        "state":null
+        "state":2039.2
     },
     {
         "variables":"oth_expense",
@@ -15990,7 +15990,7 @@
         "khan":null,
         "tdb":null,
         "xac":null,
-        "state":null
+        "state":19.7
     },
     {
         "variables":"p_bt",
@@ -15999,7 +15999,7 @@
         "khan":null,
         "tdb":null,
         "xac":null,
-        "state":null
+        "state":30417.5
     },
     {
         "variables":"p_tax",
@@ -16008,7 +16008,7 @@
         "khan":null,
         "tdb":null,
         "xac":null,
-        "state":null
+        "state":5876.3
     },
     {
         "variables":"p_othinc",
@@ -16017,7 +16017,7 @@
         "khan":null,
         "tdb":null,
         "xac":null,
-        "state":null
+        "state":1552.7
     },
     {
         "variables":"p_net",
@@ -16026,7 +16026,7 @@
         "khan":null,
         "tdb":null,
         "xac":null,
-        "state":null
+        "state":26093.9
     },
     {
         "variables":"cas",
@@ -16035,7 +16035,7 @@
         "khan":null,
         "tdb":null,
         "xac":null,
-        "state":null
+        "state":27039617.1999999993
     },
     {
         "variables":"cas_cash",
@@ -16044,7 +16044,7 @@
         "khan":null,
         "tdb":null,
         "xac":null,
-        "state":null
+        "state":767314.7
     },
     {
         "variables":"cas_bank",
@@ -16053,7 +16053,7 @@
         "khan":null,
         "tdb":null,
         "xac":null,
-        "state":null
+        "state":263423.5
     },
     {
         "variables":"cas_invest",
@@ -16062,7 +16062,7 @@
         "khan":null,
         "tdb":null,
         "xac":null,
-        "state":null
+        "state":4946595.0
     },
     {
         "variables":"cas_netloan",
@@ -16071,7 +16071,7 @@
         "khan":null,
         "tdb":null,
         "xac":null,
-        "state":null
+        "state":21033499.0
     },
     {
         "variables":"casl_sloan",
@@ -16080,7 +16080,7 @@
         "khan":null,
         "tdb":null,
         "xac":null,
-        "state":null
+        "state":1991793.5
     },
     {
         "variables":"casl_dloan",
@@ -16089,7 +16089,7 @@
         "khan":null,
         "tdb":null,
         "xac":null,
-        "state":null
+        "state":-8882.6
     },
     {
         "variables":"casl_int",
@@ -16098,7 +16098,7 @@
         "khan":null,
         "tdb":null,
         "xac":null,
-        "state":null
+        "state":47017.7
     },
     {
         "variables":"casl_npl",
@@ -16107,7 +16107,7 @@
         "khan":null,
         "tdb":null,
         "xac":null,
-        "state":null
+        "state":227267.3
     },
     {
         "variables":"casl_pdl",
@@ -16116,7 +16116,7 @@
         "khan":null,
         "tdb":null,
         "xac":null,
-        "state":null
+        "state":39510.5
     },
     {
         "variables":"casl_prov",
@@ -16125,7 +16125,7 @@
         "khan":null,
         "tdb":null,
         "xac":null,
-        "state":null
+        "state":-193356.4
     },
     {
         "variables":"cas_deriv",
@@ -16134,7 +16134,7 @@
         "khan":null,
         "tdb":null,
         "xac":null,
-        "state":null
+        "state":8976.7
     },
     {
         "variables":"cas_finas",
@@ -16143,7 +16143,7 @@
         "khan":null,
         "tdb":null,
         "xac":null,
-        "state":null
+        "state":2878.7
     },
     {
         "variables":"cas_nfinas",
@@ -16152,7 +16152,7 @@
         "khan":null,
         "tdb":null,
         "xac":null,
-        "state":null
+        "state":16929.6
     },
     {
         "variables":"ncas",
@@ -16161,7 +16161,7 @@
         "khan":null,
         "tdb":null,
         "xac":null,
-        "state":null
+        "state":144222.8
     },
     {
         "variables":"ncas_fixed",
@@ -16170,7 +16170,7 @@
         "khan":null,
         "tdb":null,
         "xac":null,
-        "state":null
+        "state":128268.6
     },
     {
         "variables":"ncas_real",
@@ -16179,7 +16179,7 @@
         "khan":null,
         "tdb":null,
         "xac":null,
-        "state":null
+        "state":2848.5
     },
     {
         "variables":"ncas_forsale",
@@ -16188,7 +16188,7 @@
         "khan":null,
         "tdb":null,
         "xac":null,
-        "state":null
+        "state":7391.1
     },
     {
         "variables":"ncas_intangible",
@@ -16197,7 +16197,7 @@
         "khan":null,
         "tdb":null,
         "xac":null,
-        "state":null
+        "state":5714.6
     },
     {
         "variables":"t_asset",
@@ -16206,7 +16206,7 @@
         "khan":null,
         "tdb":null,
         "xac":null,
-        "state":null
+        "state":3801755.5
     },
     {
         "variables":"lia",
@@ -16215,7 +16215,7 @@
         "khan":null,
         "tdb":null,
         "xac":null,
-        "state":null
+        "state":3279452.3999999999
     },
     {
         "variables":"lia_ca",
@@ -16224,7 +16224,7 @@
         "khan":null,
         "tdb":null,
         "xac":null,
-        "state":null
+        "state":845702.3
     },
     {
         "variables":"lia_sa",
@@ -16233,7 +16233,7 @@
         "khan":null,
         "tdb":null,
         "xac":null,
-        "state":null
+        "state":1883062.7
     },
     {
         "variables":"lia_bank",
@@ -16242,7 +16242,7 @@
         "khan":null,
         "tdb":null,
         "xac":null,
-        "state":null
+        "state":278464.7
     },
     {
         "variables":"lia_othdepo",
@@ -16251,7 +16251,7 @@
         "khan":null,
         "tdb":null,
         "xac":null,
-        "state":null
+        "state":212066.4
     },
     {
         "variables":"lia_othlia",
@@ -16260,7 +16260,7 @@
         "khan":null,
         "tdb":null,
         "xac":null,
-        "state":null
+        "state":60156.3
     },
     {
         "variables":"eq",
@@ -16269,7 +16269,7 @@
         "khan":null,
         "tdb":null,
         "xac":null,
-        "state":null
+        "state":522303.1
     },
     {
         "variables":"eq_cap",
@@ -16278,7 +16278,7 @@
         "khan":null,
         "tdb":null,
         "xac":null,
-        "state":null
+        "state":188774.1
     },
     {
         "variables":"eq_prem",
@@ -16287,7 +16287,7 @@
         "khan":null,
         "tdb":null,
         "xac":null,
-        "state":null
+        "state":14652.73
     },
     {
         "variables":"eq_stock",
@@ -16296,7 +16296,7 @@
         "khan":null,
         "tdb":null,
         "xac":null,
-        "state":null
+        "state":0.0
     },
     {
         "variables":"eq_surp",
@@ -16305,7 +16305,7 @@
         "khan":null,
         "tdb":null,
         "xac":null,
-        "state":null
+        "state":22586.7
     },
     {
         "variables":"eq_earn",
@@ -16314,7 +16314,7 @@
         "khan":null,
         "tdb":null,
         "xac":null,
-        "state":null
+        "state":288744.4
     },
     {
         "variables":"eq_oth",
@@ -16323,7 +16323,7 @@
         "khan":null,
         "tdb":null,
         "xac":null,
-        "state":null
+        "state":7545.2
     },
     {
         "variables":"t_lia_eq",
@@ -16332,7 +16332,7 @@
         "khan":null,
         "tdb":null,
         "xac":null,
-        "state":null
+        "state":3801755.5
     },
     {
         "variables":"ratio_t1",
@@ -16341,7 +16341,7 @@
         "khan":null,
         "tdb":null,
         "xac":null,
-        "state":null
+        "state":0.2206
     },
     {
         "variables":"ratio_car",
@@ -16350,7 +16350,7 @@
         "khan":null,
         "tdb":null,
         "xac":null,
-        "state":null
+        "state":0.2206
     },
     {
         "variables":"ratio_liq",
@@ -16359,7 +16359,7 @@
         "khan":null,
         "tdb":null,
         "xac":null,
-        "state":null
+        "state":0.3391
     },
     {
         "variables":"ratio_fcop_c",
@@ -16368,7 +16368,7 @@
         "khan":null,
         "tdb":null,
         "xac":null,
-        "state":null
+        "state":0.1352
     },
     {
         "variables":"ratio_fcop_t",
@@ -16377,6 +16377,6 @@
         "khan":null,
         "tdb":null,
         "xac":null,
-        "state":null
+        "state":0.145
     }
 ]
