@@ -1,75 +1,206 @@
+<!DOCTYPE HTML>
+
 <html>
 
 <head>
-    <link rel="stylesheet" type="text/css" href="assets/stylesheet.css" media="screen" />
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Pangolin&display=swap" rel="stylesheet">
-    <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
-    <script src="assets/homepage.js"></script>
     <title>MurunOFC</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+    <link rel="stylesheet" href="assets/css/main.css" />
+    <noscript>
+        <link rel="stylesheet" href="assets/css/noscript.css" />
+    </noscript>
 </head>
 
-<body>
-    <div class="center-container">
-        <div class="image-container">
-            <img class='image' id="center-image">
-        </div>
+<body class="is-preload">
 
-        <div class="middle">
-            <h2>WELCOME TO MY LITTLE SPACE</h2>
-            <h3>Database | Monthly Macro Reports | Excel VBA Tools</h3>
-        </div>
+    <!-- Wrapper -->
+    <div id="wrapper">
 
-        <div class='links-container'>
-
-            <div class='links-group'>
-                <h2>Reports</h2>
-                <ul class='links-list'>
-
-                    <li><a href="/documents/BoP Report MN.pdf">BoP Report</a></li>
-
-                    <li><a href="/documents/Fiscal Report MN.pdf">Fiscal Report</a></li>
-
-                    <li><a href="/documents/GDP Report MN.pdf">GDP Report</a></li>
-
-                    <li><a href="/documents/Monetary Report MN.pdf">Monetary Report</a></li>
-
-                    <li><a href="/documents/Trade Report MN.pdf">Trade Report</a></li>
+        <!-- Header -->
+        <header id="header">
+            <div class="logo">
+                <div class="image-cropper">
+                    <img src="images/profile.jpg" class="rounded" />
+                </div>
+            </div>
+            <div class="content">
+                <div class="inner">
+                    <h1>MurunOFC</h1>
+                    <p>Database | Monthly Macro Reports | Excel VBA Tools</p>
+                </div>
+            </div>
+            <nav>
+                <ul>
+                    <li><a href="#report">Reports</a></li>
+                    <li><a href="#tools">Excel Tools</a></li>
+                    <li><a href="#about">About</a></li>
 
                 </ul>
-            </div>
+            </nav>
+        </header>
 
-            <div class='links-group'>
-                <h2>Excel programs</h2>
-                <ul class='links-list'>
+        <!-- Main -->
+        <div id="main">
 
-                    <li><a href="/documents/Viewer.xlsm">Viewer</a></li>
-                    <!--
-                    <li><a href="https://Stackoverflow.com">StackOverflow</a></li>
+            <!-- Reports -->
+            <article id="report">
 
-                    <li><a href="https://cloud.google.com/">Google Cloud</a></li>
-                    -->
-                </ul>
-            </div>
+                <h2 class="major">Reports</h2>
+                <!-- <span class="image main"><img src="images/pic01.jpg" alt="" /></span> -->
+                <!-- <p>Mongolian Macro-Economic reports</p> -->
 
-            <div class='links-group'>
-                <h2>Contact me</h2>
-                <ul class='links-list'>
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Report Name</th>
+                            <th></th>
+                            <th></th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>GDP Report</td>
+                            <td>
+                                <a target="_blank" href="/documents/GDP Report MN.pdf" class="button small">MN</a>
+                            </td>
+                            <td><a target="_blank" href="/documents/GDP Report EN.pdf" class="button small">EN</a></td>
+                        </tr>
 
-                    <li><a href="mailto: murunofc@gmail.com">E-mail</a></li>
+                        <tr>
+                            <td>Monetary Report</td>
+                            <td>
+                                <a target="_blank" href="/documents/Monetary Report MN.pdf" class="button small">MN</a>
+                            </td>
+                            <td><a target="_blank" href="/documents/Monetary Report EN.pdf" class="button small">EN</a>
+                            </td>
+                        </tr>
 
-                    <li><a href="https://www.instagram.com/murunofc/">Instagram</a></li>
+                        <tr>
+                            <td>Trade Report</td>
+                            <td>
+                                <a target="_blank" href="/documents/Trade Report MN.pdf" class="button small">MN</a>
+                            </td>
+                            <td><a target="_blank" href="/documents/Trade Report EN.pdf" class="button small">EN</a>
+                            </td>
+                        </tr>
 
-                </ul>
-            </div>
+                        <tr>
+                            <td>Fiscal Report</td>
+                            <td>
+                                <a target="_blank" href="/documents/Fiscal Report MN.pdf" class="button small">MN</a>
+                            </td>
+                            <td><a target="_blank" href="/documents/Fiscal Report EN.pdf" class="button small">EN</a>
+                            </td>
+                        </tr>
 
-            <div class="bottom">
-                <p>by MurunOFC ©, 2022 </p>
-            </div>
+                        <tr>
+                            <td>BoP Report</td>
+                            <td>
+                                <a target="_blank" href="/documents/BoP Report MN.pdf" class="button small">MN</a>
+                            </td>
+                            <td><a target="_blank" href="/documents/BoP Report EN.pdf" class="button small">EN</a></td>
+                        </tr>
+
+                    </tbody>
+
+                </table>
+
+
+            </article>
+
+
+            <!-- Excel Tools -->
+            <article id="tools">
+                <h2 class="major">Excel Tools</h2>
+                <!-- <span class="image main"><img src="images/pic02.jpg" alt="" /></span> -->
+
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Tools</th>
+                            <th></th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>Excel Viewer</td>
+                            <td>
+                                <a target="_blank" href="/documents/Viewer.xlsm" class="button small">Download</a>
+                            </td>
+
+                        </tr>
+
+
+
+
+                    </tbody>
+
+                </table>
+
+
+            </article>
+
+            <!-- Contact -->
+            <article id="about">
+                <h2 class="major">About me</h2>
+                <!-- <span class="image main"><img src="images/pic03.jpg" alt="" /></span> -->
+                <p>
+                    <b>Murun Ulziibaatar</b> </br>
+                    Economist | Researcher | Data Analyst </br>
+                    </br>
+                    I make automations on python and vba. You can find macro-economic datas and reports updated on
+                    monthly bases on this website. </br>
+                    </br>
+                    Ulaanbaatar, Mongolia
+
+                </p>
+
+                <section class="split contact">
+                    <section class="alt">
+                        <h3></h3>
+                        <ul class="icons">
+                            <li><a href="mailto: murunofc@gmail.com" class="fas fa-envelope"><span
+                                        class="label"></span></a>
+                            <li><a target="_blank" href="https://www.instagram.com/murunofc/"
+                                    class="icon brands fa-instagram"><span class="label">Instagram</span></a>
+                            </li>
+                            <li><a target="_blank" href="https://github.com/murunofc"
+                                    class="icon brands fa-github"><span class="label">GitHub</span></a></li>
+                        </ul>
+                    </section>
+
+
+                </section>
+
+
+
+
+
+
+            </article>
+
+
 
         </div>
+
+        <!-- Footer -->
+        <footer id="footer">
+            <p class="copyright">&copy; MurunOFC, 2023</p>
+        </footer>
+
     </div>
+
+    <!-- BG -->
+    <div id="bg"></div>
+
+    <!-- Scripts -->
+    <script src="assets/js/jquery.min.js"></script>
+    <script src="assets/js/browser.min.js"></script>
+    <script src="assets/js/breakpoints.min.js"></script>
+    <script src="assets/js/util.js"></script>
+    <script src="assets/js/main.js"></script>
+
 </body>
 
 </html>
