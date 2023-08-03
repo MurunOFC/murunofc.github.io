@@ -16383,7 +16383,7 @@
         "variables":"ii",
         "periods":"2023Q2",
         "golomt":448841.0,
-        "khan":null,
+        "khan":945614.0,
         "tdb":163780.721,
         "xac":241096.0,
         "state":null
@@ -16392,7 +16392,7 @@
         "variables":"ii_bom",
         "periods":"2023Q2",
         "golomt":12818.0,
-        "khan":null,
+        "khan":39550.0,
         "tdb":9162.768,
         "xac":8694.0,
         "state":null
@@ -16401,7 +16401,7 @@
         "variables":"ii_banks",
         "periods":"2023Q2",
         "golomt":12037.0,
-        "khan":null,
+        "khan":4410.0,
         "tdb":6520.57,
         "xac":717.0,
         "state":null
@@ -16410,7 +16410,7 @@
         "variables":"ii_security",
         "periods":"2023Q2",
         "golomt":85579.0,
-        "khan":null,
+        "khan":199730.0,
         "tdb":46365.268,
         "xac":51035.0,
         "state":null
@@ -16419,7 +16419,7 @@
         "variables":"ii_loan",
         "periods":"2023Q2",
         "golomt":261710.0,
-        "khan":null,
+        "khan":618027.0,
         "tdb":101732.115,
         "xac":173202.0,
         "state":null
@@ -16428,7 +16428,7 @@
         "variables":"ii_other",
         "periods":"2023Q2",
         "golomt":76697.0,
-        "khan":null,
+        "khan":83897.0,
         "tdb":0.0,
         "xac":7448.0,
         "state":null
@@ -16437,7 +16437,7 @@
         "variables":"nii",
         "periods":"2023Q2",
         "golomt":101855.0,
-        "khan":null,
+        "khan":239428.0,
         "tdb":93376.956,
         "xac":29117.0,
         "state":null
@@ -16446,7 +16446,7 @@
         "variables":"nii_trade",
         "periods":"2023Q2",
         "golomt":53034.0,
-        "khan":null,
+        "khan":40025.0,
         "tdb":12932.388,
         "xac":4944.0,
         "state":null
@@ -16455,7 +16455,7 @@
         "variables":"nii_exchange",
         "periods":"2023Q2",
         "golomt":0.0,
-        "khan":null,
+        "khan":16077.0,
         "tdb":10137.617,
         "xac":658.0,
         "state":null
@@ -16464,7 +16464,7 @@
         "variables":"nii_fee",
         "periods":"2023Q2",
         "golomt":48821.0,
-        "khan":null,
+        "khan":154714.0,
         "tdb":22684.295,
         "xac":21785.0,
         "state":null
@@ -16473,7 +16473,7 @@
         "variables":"nii_other",
         "periods":"2023Q2",
         "golomt":0.0,
-        "khan":null,
+        "khan":28613.0,
         "tdb":47622.656,
         "xac":1730.0,
         "state":null
@@ -16482,7 +16482,7 @@
         "variables":"ie",
         "periods":"2023Q2",
         "golomt":235370.0,
-        "khan":null,
+        "khan":463666.0,
         "tdb":110655.488,
         "xac":132715.0,
         "state":null
@@ -16491,7 +16491,7 @@
         "variables":"ie_ca",
         "periods":"2023Q2",
         "golomt":8735.0,
-        "khan":null,
+        "khan":4079.0,
         "tdb":7065.462,
         "xac":529.0,
         "state":null
@@ -16500,7 +16500,7 @@
         "variables":"ie_sa",
         "periods":"2023Q2",
         "golomt":110844.0,
-        "khan":null,
+        "khan":266540.0,
         "tdb":77581.854,
         "xac":null,
         "state":null
@@ -16509,7 +16509,7 @@
         "variables":"ie_fund",
         "periods":"2023Q2",
         "golomt":38090.0,
-        "khan":null,
+        "khan":74105.0,
         "tdb":21212.211,
         "xac":42145.0,
         "state":null
@@ -16518,7 +16518,7 @@
         "variables":"ie_security",
         "periods":"2023Q2",
         "golomt":0.0,
-        "khan":null,
+        "khan":13480.0,
         "tdb":4782.901,
         "xac":282.0,
         "state":null
@@ -16527,7 +16527,7 @@
         "variables":"ie_other",
         "periods":"2023Q2",
         "golomt":77702.0,
-        "khan":null,
+        "khan":105462.0,
         "tdb":13.06,
         "xac":15552.0,
         "state":null
@@ -16536,7 +16536,7 @@
         "variables":"nie",
         "periods":"2023Q2",
         "golomt":112813.0,
-        "khan":null,
+        "khan":87793.0,
         "tdb":24963.346,
         "xac":6083.0,
         "state":null
@@ -16545,7 +16545,7 @@
         "variables":"nie_trade",
         "periods":"2023Q2",
         "golomt":0.0,
-        "khan":null,
+        "khan":24897.0,
         "tdb":2971.727,
         "xac":0.0,
         "state":null
@@ -16554,7 +16554,7 @@
         "variables":"nie_exchange",
         "periods":"2023Q2",
         "golomt":86442.0,
-        "khan":null,
+        "khan":14481.0,
         "tdb":13702.417,
         "xac":0.0,
         "state":null
@@ -16563,7 +16563,7 @@
         "variables":"nie_fee",
         "periods":"2023Q2",
         "golomt":26371.0,
-        "khan":null,
+        "khan":18952.0,
         "tdb":8289.202,
         "xac":6083.0,
         "state":null
@@ -16572,7 +16572,7 @@
         "variables":"nie_other",
         "periods":"2023Q2",
         "golomt":null,
-        "khan":null,
+        "khan":29463.0,
         "tdb":null,
         "xac":null,
         "state":null
@@ -16581,7 +16581,7 @@
         "variables":"oc_prov",
         "periods":"2023Q2",
         "golomt":5609.0,
-        "khan":null,
+        "khan":5596.0,
         "tdb":28384.719,
         "xac":0.0,
         "state":null
@@ -16590,7 +16590,7 @@
         "variables":"oc_othprov",
         "periods":"2023Q2",
         "golomt":14507.0,
-        "khan":null,
+        "khan":14369.0,
         "tdb":9276.161,
         "xac":100.0,
         "state":null
@@ -16599,7 +16599,7 @@
         "variables":"oc_opex",
         "periods":"2023Q2",
         "golomt":92557.0,
-        "khan":null,
+        "khan":256089.0,
         "tdb":36535.656,
         "xac":49051.0,
         "state":null
@@ -16608,7 +16608,7 @@
         "variables":"oth_income",
         "periods":"2023Q2",
         "golomt":7771.0,
-        "khan":null,
+        "khan":6812.0,
         "tdb":927.049,
         "xac":2389.0,
         "state":null
@@ -16617,7 +16617,7 @@
         "variables":"oth_expense",
         "periods":"2023Q2",
         "golomt":1508.0,
-        "khan":null,
+        "khan":3624.0,
         "tdb":707.971,
         "xac":1057.0,
         "state":null
@@ -16626,7 +16626,7 @@
         "variables":"p_bt",
         "periods":"2023Q2",
         "golomt":96104.0,
-        "khan":null,
+        "khan":360718.0,
         "tdb":47561.385,
         "xac":83596.0,
         "state":null
@@ -16635,7 +16635,7 @@
         "variables":"p_tax",
         "periods":"2023Q2",
         "golomt":17868.0,
-        "khan":null,
+        "khan":88685.0,
         "tdb":208.759,
         "xac":21404.0,
         "state":null
@@ -16644,7 +16644,7 @@
         "variables":"p_othinc",
         "periods":"2023Q2",
         "golomt":39828.0,
-        "khan":null,
+        "khan":246240.0,
         "tdb":40420.677,
         "xac":-421.0,
         "state":null
@@ -16653,7 +16653,7 @@
         "variables":"p_net",
         "periods":"2023Q2",
         "golomt":118064.0,
-        "khan":null,
+        "khan":272033.0,
         "tdb":87773.303,
         "xac":61771.0,
         "state":null
@@ -16662,7 +16662,7 @@
         "variables":"cas",
         "periods":"2023Q2",
         "golomt":8676650.0,
-        "khan":null,
+        "khan":14416413.0,
         "tdb":0.0,
         "xac":4155669.0,
         "state":null
@@ -16671,7 +16671,7 @@
         "variables":"cas_cash",
         "periods":"2023Q2",
         "golomt":1940939.0,
-        "khan":null,
+        "khan":4383048.0,
         "tdb":null,
         "xac":270634.0,
         "state":null
@@ -16680,7 +16680,7 @@
         "variables":"cas_bank",
         "periods":"2023Q2",
         "golomt":1429907.0,
-        "khan":null,
+        "khan":4410.0,
         "tdb":null,
         "xac":381387.0,
         "state":null
@@ -16689,7 +16689,7 @@
         "variables":"cas_invest",
         "periods":"2023Q2",
         "golomt":853523.0,
-        "khan":null,
+        "khan":1131955.0,
         "tdb":null,
         "xac":863091.0,
         "state":null
@@ -16698,7 +16698,7 @@
         "variables":"cas_netloan",
         "periods":"2023Q2",
         "golomt":4034919.0,
-        "khan":null,
+        "khan":8700228.0,
         "tdb":null,
         "xac":2497858.0,
         "state":null
@@ -16707,7 +16707,7 @@
         "variables":"casl_sloan",
         "periods":"2023Q2",
         "golomt":3970632.0,
-        "khan":null,
+        "khan":8562694.0,
         "tdb":null,
         "xac":2407623.0,
         "state":null
@@ -16725,7 +16725,7 @@
         "variables":"casl_int",
         "periods":"2023Q2",
         "golomt":32649.0,
-        "khan":null,
+        "khan":106870.0,
         "tdb":null,
         "xac":38005.0,
         "state":null
@@ -16734,7 +16734,7 @@
         "variables":"casl_npl",
         "periods":"2023Q2",
         "golomt":314311.0,
-        "khan":null,
+        "khan":481378.0,
         "tdb":null,
         "xac":74823.0,
         "state":null
@@ -16743,7 +16743,7 @@
         "variables":"casl_pdl",
         "periods":"2023Q2",
         "golomt":null,
-        "khan":null,
+        "khan":203275.0,
         "tdb":null,
         "xac":60673.0,
         "state":null
@@ -16752,7 +16752,7 @@
         "variables":"casl_prov",
         "periods":"2023Q2",
         "golomt":-263540.0,
-        "khan":null,
+        "khan":-571304.0,
         "tdb":null,
         "xac":-72944.0,
         "state":null
@@ -16761,7 +16761,7 @@
         "variables":"cas_deriv",
         "periods":"2023Q2",
         "golomt":360229.0,
-        "khan":null,
+        "khan":87465.0,
         "tdb":null,
         "xac":71217.0,
         "state":null
@@ -16770,7 +16770,7 @@
         "variables":"cas_finas",
         "periods":"2023Q2",
         "golomt":14884.0,
-        "khan":null,
+        "khan":6552.0,
         "tdb":null,
         "xac":14331.0,
         "state":null
@@ -16779,7 +16779,7 @@
         "variables":"cas_nfinas",
         "periods":"2023Q2",
         "golomt":42249.0,
-        "khan":null,
+        "khan":102755.0,
         "tdb":null,
         "xac":57151.0,
         "state":null
@@ -16788,7 +16788,7 @@
         "variables":"ncas",
         "periods":"2023Q2",
         "golomt":510846.0,
-        "khan":null,
+        "khan":511622.0,
         "tdb":0.0,
         "xac":85051.0,
         "state":null
@@ -16797,7 +16797,7 @@
         "variables":"ncas_fixed",
         "periods":"2023Q2",
         "golomt":469616.0,
-        "khan":null,
+        "khan":466129.0,
         "tdb":null,
         "xac":64040.0,
         "state":null
@@ -16806,7 +16806,7 @@
         "variables":"ncas_real",
         "periods":"2023Q2",
         "golomt":6586.0,
-        "khan":null,
+        "khan":0.0,
         "tdb":null,
         "xac":0.0,
         "state":null
@@ -16815,7 +16815,7 @@
         "variables":"ncas_forsale",
         "periods":"2023Q2",
         "golomt":13475.0,
-        "khan":null,
+        "khan":3481.0,
         "tdb":null,
         "xac":2028.0,
         "state":null
@@ -16824,7 +16824,7 @@
         "variables":"ncas_intangible",
         "periods":"2023Q2",
         "golomt":21169.0,
-        "khan":null,
+        "khan":42012.0,
         "tdb":null,
         "xac":18983.0,
         "state":null
@@ -16833,7 +16833,7 @@
         "variables":"t_asset",
         "periods":"2023Q2",
         "golomt":9187497.0,
-        "khan":null,
+        "khan":16020421.0,
         "tdb":null,
         "xac":4251099.0,
         "state":null
@@ -16842,7 +16842,7 @@
         "variables":"lia",
         "periods":"2023Q2",
         "golomt":8341162.0,
-        "khan":null,
+        "khan":14224878.0,
         "tdb":null,
         "xac":3709601.0,
         "state":null
@@ -16851,7 +16851,7 @@
         "variables":"lia_ca",
         "periods":"2023Q2",
         "golomt":2928038.0,
-        "khan":null,
+        "khan":4327772.0,
         "tdb":null,
         "xac":600715.0,
         "state":null
@@ -16860,7 +16860,7 @@
         "variables":"lia_sa",
         "periods":"2023Q2",
         "golomt":3116731.0,
-        "khan":null,
+        "khan":7099894.0,
         "tdb":null,
         "xac":1842905.0,
         "state":null
@@ -16869,7 +16869,7 @@
         "variables":"lia_bank",
         "periods":"2023Q2",
         "golomt":1894632.0,
-        "khan":null,
+        "khan":2112222.0,
         "tdb":null,
         "xac":1052226.0,
         "state":null
@@ -16878,7 +16878,7 @@
         "variables":"lia_othdepo",
         "periods":"2023Q2",
         "golomt":277255.0,
-        "khan":null,
+        "khan":469473.0,
         "tdb":null,
         "xac":102343.0,
         "state":null
@@ -16887,7 +16887,7 @@
         "variables":"lia_othlia",
         "periods":"2023Q2",
         "golomt":124505.0,
-        "khan":null,
+        "khan":215518.0,
         "tdb":null,
         "xac":111412.0,
         "state":null
@@ -16896,7 +16896,7 @@
         "variables":"eq",
         "periods":"2023Q2",
         "golomt":846335.0,
-        "khan":null,
+        "khan":1795543.0,
         "tdb":null,
         "xac":541498.0,
         "state":null
@@ -16905,7 +16905,7 @@
         "variables":"eq_cap",
         "periods":"2023Q2",
         "golomt":202164.0,
-        "khan":null,
+        "khan":191220.0,
         "tdb":null,
         "xac":105270.0,
         "state":null
@@ -16914,7 +16914,7 @@
         "variables":"eq_prem",
         "periods":"2023Q2",
         "golomt":301481.0,
-        "khan":null,
+        "khan":164258.0,
         "tdb":null,
         "xac":30587.0,
         "state":null
@@ -16923,7 +16923,7 @@
         "variables":"eq_stock",
         "periods":"2023Q2",
         "golomt":0.0,
-        "khan":null,
+        "khan":0.0,
         "tdb":null,
         "xac":null,
         "state":null
@@ -16932,7 +16932,7 @@
         "variables":"eq_surp",
         "periods":"2023Q2",
         "golomt":6995.0,
-        "khan":null,
+        "khan":87415.0,
         "tdb":null,
         "xac":18529.0,
         "state":null
@@ -16941,7 +16941,7 @@
         "variables":"eq_earn",
         "periods":"2023Q2",
         "golomt":333333.0,
-        "khan":null,
+        "khan":1361056.0,
         "tdb":null,
         "xac":325514.0,
         "state":null
@@ -16950,7 +16950,7 @@
         "variables":"eq_oth",
         "periods":"2023Q2",
         "golomt":2362.0,
-        "khan":null,
+        "khan":-8406.0,
         "tdb":null,
         "xac":61598.0,
         "state":null
@@ -16959,7 +16959,7 @@
         "variables":"t_lia_eq",
         "periods":"2023Q2",
         "golomt":9187497.0,
-        "khan":null,
+        "khan":16020421.0,
         "tdb":null,
         "xac":4251099.0,
         "state":null
@@ -16968,7 +16968,7 @@
         "variables":"ratio_t1",
         "periods":"2023Q2",
         "golomt":0.163,
-        "khan":null,
+        "khan":0.1683,
         "tdb":null,
         "xac":0.1912,
         "state":null
@@ -16977,7 +16977,7 @@
         "variables":"ratio_car",
         "periods":"2023Q2",
         "golomt":0.163,
-        "khan":null,
+        "khan":0.1683,
         "tdb":null,
         "xac":0.1912,
         "state":null
@@ -16986,7 +16986,7 @@
         "variables":"ratio_liq",
         "periods":"2023Q2",
         "golomt":0.3333,
-        "khan":null,
+        "khan":0.4261,
         "tdb":null,
         "xac":0.3658,
         "state":null
@@ -16995,7 +16995,7 @@
         "variables":"ratio_fcop_c",
         "periods":"2023Q2",
         "golomt":-0.0812,
-        "khan":null,
+        "khan":-0.0372,
         "tdb":null,
         "xac":0.0436,
         "state":null
@@ -17004,7 +17004,7 @@
         "variables":"ratio_fcop_t",
         "periods":"2023Q2",
         "golomt":-0.1875,
-        "khan":null,
+        "khan":-0.0374,
         "tdb":null,
         "xac":0.0473,
         "state":null
