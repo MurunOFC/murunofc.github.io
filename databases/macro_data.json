@@ -51695,7 +51695,7 @@
         "rate_saving_fc":null,
         "rate_loan_mnt":null,
         "rate_loan_fc":null,
-        "rate_policy":null,
+        "rate_policy":13.0,
         "cpi_total":138.0021343719,
         "cpi_foodnonal":41.2083209776,
         "cpi_beverage":1.3674906406,
