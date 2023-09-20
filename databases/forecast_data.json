@@ -17011,7 +17011,7 @@
     },
     {
         "source":"adb-ado",
-        "updated":"2023Jun",
+        "updated":"2023Sep",
         "var":"gdp",
         "name":"Kazakhstan",
         "id":"KZ",
@@ -17021,27 +17021,7 @@
     },
     {
         "source":"adb-ado",
-        "updated":"2023Jun",
-        "var":"gdp",
-        "name":"Kazakhstan",
-        "id":"KZ",
-        "period":"2023",
-        "value":3.7,
-        "unit":"%"
-    },
-    {
-        "source":"adb-ado",
-        "updated":"2023Jun",
-        "var":"gdp",
-        "name":"Kazakhstan",
-        "id":"KZ",
-        "period":"2024",
-        "value":4.1,
-        "unit":"%"
-    },
-    {
-        "source":"adb-ado",
-        "updated":"2023Jun",
+        "updated":"2023Sep",
         "var":"gdp",
         "name":"Uzbekistan",
         "id":"TR",
@@ -17051,57 +17031,17 @@
     },
     {
         "source":"adb-ado",
-        "updated":"2023Jun",
-        "var":"gdp",
-        "name":"Uzbekistan",
-        "id":"TR",
-        "period":"2023",
-        "value":5.0,
-        "unit":"%"
-    },
-    {
-        "source":"adb-ado",
-        "updated":"2023Jun",
-        "var":"gdp",
-        "name":"Uzbekistan",
-        "id":"TR",
-        "period":"2024",
-        "value":5.0,
-        "unit":"%"
-    },
-    {
-        "source":"adb-ado",
-        "updated":"2023Jun",
+        "updated":"2023Sep",
         "var":"gdp",
         "name":"Mongolia",
         "id":"MN",
         "period":"2022",
-        "value":4.8,
+        "value":5.0,
         "unit":"%"
     },
     {
         "source":"adb-ado",
-        "updated":"2023Jun",
-        "var":"gdp",
-        "name":"Mongolia",
-        "id":"MN",
-        "period":"2023",
-        "value":5.4,
-        "unit":"%"
-    },
-    {
-        "source":"adb-ado",
-        "updated":"2023Jun",
-        "var":"gdp",
-        "name":"Mongolia",
-        "id":"MN",
-        "period":"2024",
-        "value":6.1,
-        "unit":"%"
-    },
-    {
-        "source":"adb-ado",
-        "updated":"2023Jun",
+        "updated":"2023Sep",
         "var":"gdp",
         "name":"People's Republic of China",
         "id":"CN",
@@ -17111,27 +17051,7 @@
     },
     {
         "source":"adb-ado",
-        "updated":"2023Jun",
-        "var":"gdp",
-        "name":"People's Republic of China",
-        "id":"CN",
-        "period":"2023",
-        "value":5.0,
-        "unit":"%"
-    },
-    {
-        "source":"adb-ado",
-        "updated":"2023Jun",
-        "var":"gdp",
-        "name":"People's Republic of China",
-        "id":"CN",
-        "period":"2024",
-        "value":4.5,
-        "unit":"%"
-    },
-    {
-        "source":"adb-ado",
-        "updated":"2023Jun",
+        "updated":"2023Sep",
         "var":"gdp",
         "name":"Republic of Korea",
         "id":"KR",
@@ -17141,87 +17061,27 @@
     },
     {
         "source":"adb-ado",
-        "updated":"2023Jun",
-        "var":"gdp",
-        "name":"Republic of Korea",
-        "id":"KR",
-        "period":"2023",
-        "value":1.5,
-        "unit":"%"
-    },
-    {
-        "source":"adb-ado",
-        "updated":"2023Jun",
-        "var":"gdp",
-        "name":"Republic of Korea",
-        "id":"KR",
-        "period":"2024",
-        "value":2.2,
-        "unit":"%"
-    },
-    {
-        "source":"adb-ado",
-        "updated":"2023Jun",
+        "updated":"2023Sep",
         "var":"gdp",
         "name":"Taipei,China",
         "id":"TW",
         "period":"2022",
-        "value":2.5,
+        "value":2.4,
         "unit":"%"
     },
     {
         "source":"adb-ado",
-        "updated":"2023Jun",
-        "var":"gdp",
-        "name":"Taipei,China",
-        "id":"TW",
-        "period":"2023",
-        "value":2.0,
-        "unit":"%"
-    },
-    {
-        "source":"adb-ado",
-        "updated":"2023Jun",
-        "var":"gdp",
-        "name":"Taipei,China",
-        "id":"TW",
-        "period":"2024",
-        "value":2.6,
-        "unit":"%"
-    },
-    {
-        "source":"adb-ado",
-        "updated":"2023Jun",
+        "updated":"2023Sep",
         "var":"gdp",
         "name":"India",
         "id":"IN",
         "period":"2022",
-        "value":6.8,
+        "value":7.2,
         "unit":"%"
     },
     {
         "source":"adb-ado",
-        "updated":"2023Jun",
-        "var":"gdp",
-        "name":"India",
-        "id":"IN",
-        "period":"2023",
-        "value":6.4,
-        "unit":"%"
-    },
-    {
-        "source":"adb-ado",
-        "updated":"2023Jun",
-        "var":"gdp",
-        "name":"India",
-        "id":"IN",
-        "period":"2024",
-        "value":6.7,
-        "unit":"%"
-    },
-    {
-        "source":"adb-ado",
-        "updated":"2023Jun",
+        "updated":"2023Sep",
         "var":"gdp",
         "name":"Indonesia",
         "id":"ID",
@@ -17231,27 +17091,7 @@
     },
     {
         "source":"adb-ado",
-        "updated":"2023Jun",
-        "var":"gdp",
-        "name":"Indonesia",
-        "id":"ID",
-        "period":"2023",
-        "value":4.8,
-        "unit":"%"
-    },
-    {
-        "source":"adb-ado",
-        "updated":"2023Jun",
-        "var":"gdp",
-        "name":"Indonesia",
-        "id":"ID",
-        "period":"2024",
-        "value":5.0,
-        "unit":"%"
-    },
-    {
-        "source":"adb-ado",
-        "updated":"2023Jun",
+        "updated":"2023Sep",
         "var":"gdp",
         "name":"Malaysia",
         "id":"MY",
@@ -17261,27 +17101,7 @@
     },
     {
         "source":"adb-ado",
-        "updated":"2023Jun",
-        "var":"gdp",
-        "name":"Malaysia",
-        "id":"MY",
-        "period":"2023",
-        "value":4.7,
-        "unit":"%"
-    },
-    {
-        "source":"adb-ado",
-        "updated":"2023Jun",
-        "var":"gdp",
-        "name":"Malaysia",
-        "id":"MY",
-        "period":"2024",
-        "value":4.9,
-        "unit":"%"
-    },
-    {
-        "source":"adb-ado",
-        "updated":"2023Jun",
+        "updated":"2023Sep",
         "var":"gdp",
         "name":"Philippines",
         "id":"PH",
@@ -17291,27 +17111,7 @@
     },
     {
         "source":"adb-ado",
-        "updated":"2023Jun",
-        "var":"gdp",
-        "name":"Philippines",
-        "id":"PH",
-        "period":"2023",
-        "value":6.0,
-        "unit":"%"
-    },
-    {
-        "source":"adb-ado",
-        "updated":"2023Jun",
-        "var":"gdp",
-        "name":"Philippines",
-        "id":"PH",
-        "period":"2024",
-        "value":6.2,
-        "unit":"%"
-    },
-    {
-        "source":"adb-ado",
-        "updated":"2023Jun",
+        "updated":"2023Sep",
         "var":"gdp",
         "name":"Singapore",
         "id":"SG",
@@ -17321,27 +17121,7 @@
     },
     {
         "source":"adb-ado",
-        "updated":"2023Jun",
-        "var":"gdp",
-        "name":"Singapore",
-        "id":"SG",
-        "period":"2023",
-        "value":2.0,
-        "unit":"%"
-    },
-    {
-        "source":"adb-ado",
-        "updated":"2023Jun",
-        "var":"gdp",
-        "name":"Singapore",
-        "id":"SG",
-        "period":"2024",
-        "value":3.0,
-        "unit":"%"
-    },
-    {
-        "source":"adb-ado",
-        "updated":"2023Jun",
+        "updated":"2023Sep",
         "var":"gdp",
         "name":"Thailand",
         "id":"TH",
@@ -17351,27 +17131,7 @@
     },
     {
         "source":"adb-ado",
-        "updated":"2023Jun",
-        "var":"gdp",
-        "name":"Thailand",
-        "id":"TH",
-        "period":"2023",
-        "value":3.3,
-        "unit":"%"
-    },
-    {
-        "source":"adb-ado",
-        "updated":"2023Jun",
-        "var":"gdp",
-        "name":"Thailand",
-        "id":"TH",
-        "period":"2024",
-        "value":3.7,
-        "unit":"%"
-    },
-    {
-        "source":"adb-ado",
-        "updated":"2023Jul",
+        "updated":"2023Sep",
         "var":"inf",
         "name":"Kazakhstan",
         "id":"KZ",
@@ -17381,27 +17141,7 @@
     },
     {
         "source":"adb-ado",
-        "updated":"2023Jul",
-        "var":"inf",
-        "name":"Kazakhstan",
-        "id":"KZ",
-        "period":"2023",
-        "value":11.8,
-        "unit":"%"
-    },
-    {
-        "source":"adb-ado",
-        "updated":"2023Jul",
-        "var":"inf",
-        "name":"Kazakhstan",
-        "id":"KZ",
-        "period":"2024",
-        "value":6.4,
-        "unit":"%"
-    },
-    {
-        "source":"adb-ado",
-        "updated":"2023Jul",
+        "updated":"2023Sep",
         "var":"inf",
         "name":"Uzbekistan",
         "id":"TR",
@@ -17411,27 +17151,7 @@
     },
     {
         "source":"adb-ado",
-        "updated":"2023Jul",
-        "var":"inf",
-        "name":"Uzbekistan",
-        "id":"TR",
-        "period":"2023",
-        "value":11.0,
-        "unit":"%"
-    },
-    {
-        "source":"adb-ado",
-        "updated":"2023Jul",
-        "var":"inf",
-        "name":"Uzbekistan",
-        "id":"TR",
-        "period":"2024",
-        "value":10.0,
-        "unit":"%"
-    },
-    {
-        "source":"adb-ado",
-        "updated":"2023Jul",
+        "updated":"2023Sep",
         "var":"inf",
         "name":"Mongolia",
         "id":"MN",
@@ -17441,27 +17161,7 @@
     },
     {
         "source":"adb-ado",
-        "updated":"2023Jul",
-        "var":"inf",
-        "name":"Mongolia",
-        "id":"MN",
-        "period":"2023",
-        "value":10.9,
-        "unit":"%"
-    },
-    {
-        "source":"adb-ado",
-        "updated":"2023Jul",
-        "var":"inf",
-        "name":"Mongolia",
-        "id":"MN",
-        "period":"2024",
-        "value":8.7,
-        "unit":"%"
-    },
-    {
-        "source":"adb-ado",
-        "updated":"2023Jul",
+        "updated":"2023Sep",
         "var":"inf",
         "name":"People's Republic of China",
         "id":"CN",
@@ -17471,27 +17171,7 @@
     },
     {
         "source":"adb-ado",
-        "updated":"2023Jul",
-        "var":"inf",
-        "name":"People's Republic of China",
-        "id":"CN",
-        "period":"2023",
-        "value":2.2,
-        "unit":"%"
-    },
-    {
-        "source":"adb-ado",
-        "updated":"2023Jul",
-        "var":"inf",
-        "name":"People's Republic of China",
-        "id":"CN",
-        "period":"2024",
-        "value":2.0,
-        "unit":"%"
-    },
-    {
-        "source":"adb-ado",
-        "updated":"2023Jul",
+        "updated":"2023Sep",
         "var":"inf",
         "name":"Republic of Korea",
         "id":"KR",
@@ -17501,27 +17181,7 @@
     },
     {
         "source":"adb-ado",
-        "updated":"2023Jul",
-        "var":"inf",
-        "name":"Republic of Korea",
-        "id":"KR",
-        "period":"2023",
-        "value":3.2,
-        "unit":"%"
-    },
-    {
-        "source":"adb-ado",
-        "updated":"2023Jul",
-        "var":"inf",
-        "name":"Republic of Korea",
-        "id":"KR",
-        "period":"2024",
-        "value":2.0,
-        "unit":"%"
-    },
-    {
-        "source":"adb-ado",
-        "updated":"2023Jul",
+        "updated":"2023Sep",
         "var":"inf",
         "name":"Taipei,China",
         "id":"TW",
@@ -17531,27 +17191,7 @@
     },
     {
         "source":"adb-ado",
-        "updated":"2023Jul",
-        "var":"inf",
-        "name":"Taipei,China",
-        "id":"TW",
-        "period":"2023",
-        "value":2.0,
-        "unit":"%"
-    },
-    {
-        "source":"adb-ado",
-        "updated":"2023Jul",
-        "var":"inf",
-        "name":"Taipei,China",
-        "id":"TW",
-        "period":"2024",
-        "value":2.0,
-        "unit":"%"
-    },
-    {
-        "source":"adb-ado",
-        "updated":"2023Jul",
+        "updated":"2023Sep",
         "var":"inf",
         "name":"India",
         "id":"IN",
@@ -17561,27 +17201,7 @@
     },
     {
         "source":"adb-ado",
-        "updated":"2023Jul",
-        "var":"inf",
-        "name":"India",
-        "id":"IN",
-        "period":"2023",
-        "value":5.0,
-        "unit":"%"
-    },
-    {
-        "source":"adb-ado",
-        "updated":"2023Jul",
-        "var":"inf",
-        "name":"India",
-        "id":"IN",
-        "period":"2024",
-        "value":4.5,
-        "unit":"%"
-    },
-    {
-        "source":"adb-ado",
-        "updated":"2023Jul",
+        "updated":"2023Sep",
         "var":"inf",
         "name":"Indonesia",
         "id":"ID",
@@ -17591,27 +17211,7 @@
     },
     {
         "source":"adb-ado",
-        "updated":"2023Jul",
-        "var":"inf",
-        "name":"Indonesia",
-        "id":"ID",
-        "period":"2023",
-        "value":4.2,
-        "unit":"%"
-    },
-    {
-        "source":"adb-ado",
-        "updated":"2023Jul",
-        "var":"inf",
-        "name":"Indonesia",
-        "id":"ID",
-        "period":"2024",
-        "value":3.0,
-        "unit":"%"
-    },
-    {
-        "source":"adb-ado",
-        "updated":"2023Jul",
+        "updated":"2023Sep",
         "var":"inf",
         "name":"Malaysia",
         "id":"MY",
@@ -17621,27 +17221,7 @@
     },
     {
         "source":"adb-ado",
-        "updated":"2023Jul",
-        "var":"inf",
-        "name":"Malaysia",
-        "id":"MY",
-        "period":"2023",
-        "value":3.1,
-        "unit":"%"
-    },
-    {
-        "source":"adb-ado",
-        "updated":"2023Jul",
-        "var":"inf",
-        "name":"Malaysia",
-        "id":"MY",
-        "period":"2024",
-        "value":2.8,
-        "unit":"%"
-    },
-    {
-        "source":"adb-ado",
-        "updated":"2023Jul",
+        "updated":"2023Sep",
         "var":"inf",
         "name":"Philippines",
         "id":"PH",
@@ -17651,27 +17231,7 @@
     },
     {
         "source":"adb-ado",
-        "updated":"2023Jul",
-        "var":"inf",
-        "name":"Philippines",
-        "id":"PH",
-        "period":"2023",
-        "value":6.2,
-        "unit":"%"
-    },
-    {
-        "source":"adb-ado",
-        "updated":"2023Jul",
-        "var":"inf",
-        "name":"Philippines",
-        "id":"PH",
-        "period":"2024",
-        "value":4.0,
-        "unit":"%"
-    },
-    {
-        "source":"adb-ado",
-        "updated":"2023Jul",
+        "updated":"2023Sep",
         "var":"inf",
         "name":"Singapore",
         "id":"SG",
@@ -17681,52 +17241,12 @@
     },
     {
         "source":"adb-ado",
-        "updated":"2023Jul",
-        "var":"inf",
-        "name":"Singapore",
-        "id":"SG",
-        "period":"2023",
-        "value":5.0,
-        "unit":"%"
-    },
-    {
-        "source":"adb-ado",
-        "updated":"2023Jul",
-        "var":"inf",
-        "name":"Singapore",
-        "id":"SG",
-        "period":"2024",
-        "value":2.0,
-        "unit":"%"
-    },
-    {
-        "source":"adb-ado",
-        "updated":"2023Jul",
+        "updated":"2023Sep",
         "var":"inf",
         "name":"Thailand",
         "id":"TH",
         "period":"2022",
         "value":6.1,
-        "unit":"%"
-    },
-    {
-        "source":"adb-ado",
-        "updated":"2023Jul",
-        "var":"inf",
-        "name":"Thailand",
-        "id":"TH",
-        "period":"2023",
-        "value":2.9,
-        "unit":"%"
-    },
-    {
-        "source":"adb-ado",
-        "updated":"2023Jul",
-        "var":"inf",
-        "name":"Thailand",
-        "id":"TH",
-        "period":"2024",
-        "value":2.3,
         "unit":"%"
     }
 ]
