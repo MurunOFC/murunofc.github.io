@@ -375,6 +375,76 @@
             line-height: 1.6;
         }
 
+        .timeline-company {
+            display: grid;
+            gap: 16px;
+            padding: 20px;
+            border-radius: 18px;
+            border: 1px solid rgba(20, 26, 23, 0.08);
+            background: rgba(255, 255, 255, 0.9);
+            transition: transform 0.4s ease, box-shadow 0.4s ease;
+        }
+
+        .timeline-company:hover {
+            transform: translateX(4px);
+            box-shadow: 0 12px 26px rgba(15, 27, 36, 0.12);
+        }
+
+        .company-header {
+            display: grid;
+            gap: 4px;
+        }
+
+        .company-name {
+            margin: 0;
+            font-size: 1.08rem;
+        }
+
+        .company-roles {
+            position: relative;
+            display: grid;
+            gap: 0;
+            margin-left: 8px;
+            padding-left: 22px;
+        }
+
+        .company-roles::before {
+            content: "";
+            position: absolute;
+            top: 7px;
+            bottom: 7px;
+            left: 0;
+            width: 2px;
+            background: rgba(29, 78, 216, 0.25);
+        }
+
+        .company-role {
+            position: relative;
+            display: grid;
+            gap: 5px;
+            padding: 0 0 18px;
+        }
+
+        .company-role:last-child {
+            padding-bottom: 0;
+        }
+
+        .company-role::before {
+            content: "";
+            position: absolute;
+            top: 5px;
+            left: -28px;
+            width: 10px;
+            height: 10px;
+            border: 2px solid var(--accent);
+            border-radius: 50%;
+            background: var(--card);
+        }
+
+        .company-role .timeline-role {
+            font-size: 0.92rem;
+        }
+
         .logo-grid {
             display: grid;
             gap: 16px;
@@ -714,7 +784,7 @@
                     <img src="small.jpg" alt="Murun Ulziibaatar" />
                 </div>
                 <div class="hero-content">
-                    <div class="eyebrow">Economist · Researcher · Data Analyst</div>
+                    <div class="eyebrow">Economist · Researcher · Data Analyst · Financial Advisor · Developer</div>
                     <h1>Murun Ulziibaatar</h1>
                     <p class="summary">
                         Creativity, logical thinking, knowledge and dedication are my key assets. I am a highly
@@ -724,7 +794,7 @@
                     <div class="hero-meta">
                         <span>Ulaanbaatar, Mongolia</span>
                         <span class="pulse" aria-hidden="true"></span>
-                        <span>Unet Innovations LLC</span>
+                        <span>Unet Securities SC LLC & Unet Innovations LLC</span>
                     </div>
                 </div>
             </div>
@@ -732,9 +802,9 @@
                 <div class="highlight-card reveal">
                     <div class="highlight-label">Current</div>
                     <h3>Chief Executive Officer</h3>
-                    <p>Unet Innovations LLC, Unet Financial Group</p>
-                    <h3>Deputy Chief Executive Officer</h3>
-                    <p>Unet Securities SC LLC, Unet Financial Group</p>
+                    <p>Unet Securities SC LLC</p>
+                    <h3>Co-Founder, Chief Executive Officer</h3>
+                    <p>Unet Innovations LLC</p>
                 </div>
                 <div class="highlight-card reveal">
                     <div class="highlight-label">Former</div>
@@ -743,7 +813,7 @@
                 </div>
                 <div class="highlight-card reveal">
                     <div class="highlight-label">Public Media</div>
-                    <h3>Speaker</h3>
+                    <h3>Former Speaker</h3>
                     <p>CNBC Mongolia</p>
                     <h3>Former Co-host, Analyst's Panel</h3>
                     <p>Eagle TV, daily economic and financial commentary</p>
@@ -777,44 +847,63 @@
             </div>
             <div class="timeline">
                 <div class="timeline-item reveal">
-                    <div class="timeline-role">Chief Executive Officer | 2025 - Present</div>
-                    <div class="timeline-meta">Unet Innovations LLC, Unet Financial Group | Ulaanbaatar, Mongolia</div>
-                </div>
-                <div class="timeline-item reveal">
-                    <div class="timeline-role">Deputy Chief Executive Officer | 2025 - Present</div>
-                    <div class="timeline-meta">Unet Securities SC LLC, Unet Financial Group | Ulaanbaatar, Mongolia
+                    <div class="company-header">
+                        <h3 class="company-name">Unet Securities SC LLC</h3>
+                        <div class="timeline-meta">2025 - Present | Ulaanbaatar, Mongolia</div>
+                    </div>
+                    <div class="company-roles">
+                        <div class="company-role">
+                            <div class="timeline-role">Chief Executive Officer | 2026 - Present</div>
+                        </div>
+                        <div class="company-role">
+                            <div class="timeline-role">Deputy CEO | 2025 - 2026</div>
+                        </div>
                     </div>
                 </div>
                 <div class="timeline-item reveal">
-                    <div class="timeline-role">Chief Economist, Head of Economic Research Unit | 2023 - 2025</div>
-                    <div class="timeline-meta">Golomt Bank | Ulaanbaatar, Mongolia</div>
-                </div>
-                <div class="timeline-item reveal">
-                    <div class="timeline-role">Senior Economic Analyst, Head of Economic Research Unit | 2022 - 2023
+                    <div class="company-header">
+                        <h3 class="company-name">Unet Innovations LLC</h3>
+                        <div class="timeline-meta">2025 - Present | Ulaanbaatar, Mongolia</div>
                     </div>
-                    <div class="timeline-meta">Golomt Bank | Ulaanbaatar, Mongolia</div>
-                </div>
-                <div class="timeline-item reveal">
-                    <div class="timeline-role">Sales Team and Working Group Member | 2021 - 2022</div>
-                    <div class="timeline-meta">
-                        IPO Working Group of Golomt Bank's IPO | 2021 - 2022 | Ulaanbaatar, Mongolia
-                    </div>
-                    <div class="timeline-desc">
-                        According to the banking law of Mongolia, top 5 commercial banks, including Golomt have
-                        successfully offered IPO to the public on November 2022. Worked in the main IPO working
-                        group to prepare IPO contents, presentations and planning.
-                    </div>
-                    <div class="timeline-meta">
-                        IPO Sales Group of Golomt Bank's IPO | 2022 | Ulaanbaatar, Mongolia
-                    </div>
-                    <div class="timeline-desc">
-                        During the IPO roadshow and closed sales period, worked in sales group to boost the IPO
-                        sales to strategic investors. Successfully closed sales.
+                    <div class="company-roles">
+                        <div class="company-role">
+                            <div class="timeline-role">Chief Executive Officer | 2025 - Present</div>
+                        </div>
                     </div>
                 </div>
-                <div class="timeline-item reveal">
-                    <div class="timeline-role">Economic Analyst | 2021 - 2022</div>
-                    <div class="timeline-meta">Golomt Bank | Ulaanbaatar, Mongolia</div>
+                <div class="timeline-company reveal">
+                    <div class="company-header">
+                        <h3 class="company-name">Golomt Bank</h3>
+                        <div class="timeline-meta">2018 - 2025 | Ulaanbaatar, Mongolia</div>
+                    </div>
+                    <div class="company-roles">
+                        <div class="company-role">
+                            <div class="timeline-role">Chief Economist, Head of Economic Research Unit | 2023 - 2025</div>
+                        </div>
+                        <div class="company-role">
+                            <div class="timeline-role">Senior Economic Analyst, Head of Economic Research Unit | 2022 - 2023</div>
+                        </div>
+                        <div class="company-role">
+                            <div class="timeline-role">Sales Team and Working Group Member | 2021 - 2022</div>
+                            <div class="timeline-meta">IPO Working Group of Golomt Bank's IPO | 2021 - 2022</div>
+                            <div class="timeline-desc">
+                                According to the banking law of Mongolia, top 5 commercial banks, including Golomt have
+                                successfully offered IPO to the public on November 2022. Worked in the main IPO working
+                                group to prepare IPO contents, presentations and planning.
+                            </div>
+                            <div class="timeline-meta">IPO Sales Group of Golomt Bank's IPO | 2022</div>
+                            <div class="timeline-desc">
+                                During the IPO roadshow and closed sales period, worked in sales group to boost the IPO
+                                sales to strategic investors. Successfully closed sales.
+                            </div>
+                        </div>
+                        <div class="company-role">
+                            <div class="timeline-role">Economic Analyst | 2021 - 2022</div>
+                        </div>
+                        <div class="company-role">
+                            <div class="timeline-role">Research Manager | 2018 - 2021</div>
+                        </div>
+                    </div>
                 </div>
                 <div class="timeline-item reveal">
                     <div class="timeline-role">Co-host of Analyst's Panel | 2021 - 2023</div>
@@ -825,10 +914,6 @@
                         informations regarding the economic and financial knowledge and events, and airs daily.
                         Has been co-hosting since 2021.
                     </div>
-                </div>
-                <div class="timeline-item reveal">
-                    <div class="timeline-role">Research Manager | 2018 - 2021</div>
-                    <div class="timeline-meta">Golomt Bank | Ulaanbaatar, Mongolia</div>
                 </div>
                 <div class="timeline-item reveal">
                     <div class="timeline-role">Contract Researcher | 2018 - 2018</div>
@@ -1826,8 +1911,7 @@
             { threshold: 0.2 }
         );
 
-        reveals.forEach((el, index) => {
-            el.style.transitionDelay = `${index * 0.06}s`;
+        reveals.forEach((el) => {
             observer.observe(el);
         });
 
